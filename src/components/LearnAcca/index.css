@@ -1,0 +1,38 @@
+.what-will-you-learn-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 25px;
+}
+.what-will-you-learn-container {
+  padding-bottom: 40px;
+}
+.learn-cards-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.learn-card-container {
+  display: flex;
+  flex-direction: column;
+  width: 220px;
+  background-color: #ecf3f9;
+  margin-right: 16px;
+}
+.card-bottom-text {
+  margin: 0px;
+  background-color: #4120a9;
+  padding: 10px;
+  color: #ffffff;
+  font-size: 18px;
+}
+.card-heading {
+  margin: 0px;
+  background-color: #4120a9;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 10px;
+}
+.learn-card-content-text {
+  font-size: 16px;
+}
